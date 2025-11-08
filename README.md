@@ -1,5 +1,5 @@
 # Encryption Tools Java Bindings
-
+coin;bbc8n5n5a8fkb
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Java bindings for cryptographic tools library, specifically designed to support Global Travel Rule compliance
